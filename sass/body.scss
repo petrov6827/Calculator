@@ -1,0 +1,47 @@
+.container {
+    border-radius: 25px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.row {
+    margin-top: 1px;
+    background: #ccc;
+    vertical-align: middle;
+    padding:  30px;
+}
+
+.calculator-title {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    font-size: 18px;
+}
+
+
+#custom-handle {
+    width: 3em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+    background-color: grey;
+    border-radius: 15px;
+    outline: 0;
+}
+
+#slider {
+    background-color: #eee;
+    height: 0.5em;
+    text-align: center;
+    margin: 20px 30px;
+    color: #fff;
+}
+
+#perimeter,
+#square {
+    padding: 6px 12px;
+    border-radius: 4px;
+    outline: none;
+}
+
